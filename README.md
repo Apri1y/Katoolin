@@ -3,9 +3,11 @@
 Automatically install all Kali linux tools
 
 # Features
-- Add Kali linux repositories
-- Remove kali linux repositories
-- Install Kali linux tools
+- 1）加载kali源 和 更新软件库
+- 2）软件分类
+- 3）安装经典菜单（开始菜单）
+- 4）安装kali菜单
+- 5）帮助
 
 # Requirements
 - Python 2.7
