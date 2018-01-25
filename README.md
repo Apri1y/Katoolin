@@ -14,6 +14,16 @@ Automatically install all Kali linux tools
 # Installation
 - sudo su
 - git clone https://github.com/Apri1y/Katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+
+```
+升级系统： 
+sudo apt-get update 
+sudo apt-get upgrade 
+然后进行git安装： 
+sudo apt-get install git 
+安装成功！
+```
+
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
